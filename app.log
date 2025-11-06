@@ -1,0 +1,56 @@
+2025-11-05 20:02:58,132 [WARNING]  * Debugger is active!
+2025-11-05 20:02:58,134 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:03:09,539 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-05 20:03:09,539 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-05 20:03:09,551 [INFO]  * Restarting with stat
+2025-11-05 20:03:10,029 [WARNING]  * Debugger is active!
+2025-11-05 20:03:10,030 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:08:29,528 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\test\\test_crud.py', reloading
+2025-11-05 20:08:29,728 [INFO]  * Restarting with stat
+2025-11-05 20:08:30,572 [WARNING]  * Debugger is active!
+2025-11-05 20:08:30,574 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:09:42,915 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\test\\test_crud.py', reloading
+2025-11-05 20:09:43,035 [INFO]  * Restarting with stat
+2025-11-05 20:09:43,753 [WARNING]  * Debugger is active!
+2025-11-05 20:09:43,757 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:09:44,778 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\test\\test_crud.py', reloading
+2025-11-05 20:09:44,997 [INFO]  * Restarting with stat
+2025-11-05 20:09:46,725 [WARNING]  * Debugger is active!
+2025-11-05 20:09:46,729 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:04,559 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:04,643 [INFO]  * Restarting with stat
+2025-11-05 20:21:05,189 [WARNING]  * Debugger is active!
+2025-11-05 20:21:05,191 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:07,218 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:07,406 [INFO]  * Restarting with stat
+2025-11-05 20:21:07,884 [WARNING]  * Debugger is active!
+2025-11-05 20:21:07,885 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:09,898 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:09,982 [INFO]  * Restarting with stat
+2025-11-05 20:21:10,768 [WARNING]  * Debugger is active!
+2025-11-05 20:21:10,770 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:17,810 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:17,886 [INFO]  * Restarting with stat
+2025-11-05 20:21:18,349 [WARNING]  * Debugger is active!
+2025-11-05 20:21:18,351 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:25,380 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:25,522 [INFO]  * Restarting with stat
+2025-11-05 20:21:26,116 [WARNING]  * Debugger is active!
+2025-11-05 20:21:26,118 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:28,129 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:28,224 [INFO]  * Restarting with stat
+2025-11-05 20:21:28,718 [WARNING]  * Debugger is active!
+2025-11-05 20:21:28,719 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:31,737 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:31,811 [INFO]  * Restarting with stat
+2025-11-05 20:21:32,334 [WARNING]  * Debugger is active!
+2025-11-05 20:21:32,336 [INFO]  * Debugger PIN: 119-885-249
+2025-11-05 20:21:45,389 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-05 20:21:45,466 [INFO]  * Restarting with stat
+2025-11-06 08:49:10,750 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 08:49:10,752 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 08:49:10,755 [INFO]  * Restarting with stat
+2025-11-06 08:49:11,217 [WARNING]  * Debugger is active!
+2025-11-06 08:49:11,231 [INFO]  * Debugger PIN: 119-885-249
