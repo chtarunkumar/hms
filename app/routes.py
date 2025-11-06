@@ -1,4 +1,3 @@
-# app/routes.py
 
 from flask import Blueprint, request, jsonify
 from app.models import db, Patient

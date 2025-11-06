@@ -54,3 +54,19 @@
 2025-11-06 08:49:10,755 [INFO]  * Restarting with stat
 2025-11-06 08:49:11,217 [WARNING]  * Debugger is active!
 2025-11-06 08:49:11,231 [INFO]  * Debugger PIN: 119-885-249
+2025-11-06 16:12:12,438 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\db.py', reloading
+2025-11-06 16:12:12,610 [INFO]  * Restarting with stat
+2025-11-06 16:12:13,777 [WARNING]  * Debugger is active!
+2025-11-06 16:12:13,779 [INFO]  * Debugger PIN: 119-885-249
+2025-11-06 16:12:35,907 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-06 16:12:36,019 [INFO]  * Restarting with stat
+2025-11-06 16:12:36,815 [WARNING]  * Debugger is active!
+2025-11-06 16:12:36,818 [INFO]  * Debugger PIN: 119-885-249
+2025-11-06 16:12:43,870 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\routes.py', reloading
+2025-11-06 16:12:44,012 [INFO]  * Restarting with stat
+2025-11-06 16:12:44,726 [WARNING]  * Debugger is active!
+2025-11-06 16:12:44,728 [INFO]  * Debugger PIN: 119-885-249
+2025-11-06 16:13:29,950 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\run.py', reloading
+2025-11-06 16:13:30,070 [INFO]  * Restarting with stat
+2025-11-06 16:13:30,691 [WARNING]  * Debugger is active!
+2025-11-06 16:13:30,693 [INFO]  * Debugger PIN: 119-885-249
