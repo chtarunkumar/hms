@@ -1,4 +1,6 @@
-import os
-
-SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URI', 'sqlite:///db.sqlite')
-SQLALCHEMY_TRACK_MODIFICATIONS = False
+# Sender address
+from_address = "tarunkumarchanchali@gmail.com"
+# Generate in Google Account -> Security -> App passwords (Two-Step Verification)
+app_password = "qbwjkhuboadpsjvu"  
+# Receiver address
+to_address = "hk0362691@gmail.com"
