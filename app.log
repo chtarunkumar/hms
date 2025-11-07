@@ -1875,3 +1875,15 @@ werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on 
 2025-11-07 15:46:28,162 [WARNING]  * Debugger is active!
 2025-11-07 15:46:28,164 [INFO]  * Debugger PIN: 119-885-249
 2025-11-07 15:46:33,147 [INFO] 127.0.0.1 - - [07/Nov/2025 15:46:33] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:52:01,539 [INFO] Database initialized.
+2025-11-07 15:52:01,541 [INFO] Starting Flask application...
+2025-11-07 15:52:01,610 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.233.64.50:5000
+2025-11-07 15:52:01,611 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-07 15:52:01,614 [INFO]  * Restarting with stat
+2025-11-07 15:52:02,418 [INFO] Database initialized.
+2025-11-07 15:52:02,418 [INFO] Starting Flask application...
+2025-11-07 15:52:02,430 [WARNING]  * Debugger is active!
+2025-11-07 15:52:02,432 [INFO]  * Debugger PIN: 119-885-249
