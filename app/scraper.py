@@ -3,19 +3,28 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html"
+url = "https://www.who.int/health-topics/hospitals#tab=tab_1"
 
-def scrape_book_titles(url):
+def scrape_hospital_news(url):
     response = requests.get(url)
     if response.status_code != 200:
-        print("Failed to retrieve the webpage.")
+        print(f"Failed to retrieve webpage: Status code {response.status_code}")
         return []
 
-    soup = BeautifulSoup(response.text, 'html.parser')
-    book_elements = soup.select('article.product_pod h3 a') # Selecting book title elements
-    book_titles = [book['title'] for book in book_elements]
-    return book_titles
+    soup = BeautifulSoup(response.content, 'html.parser')
+    news_items = soup.find_all('div', class_='list-view--item vertical-list-item')
 
-printed_titles = scrape_book_titles(url)
-for title in printed_titles:
-    print(title)
+    hospital_news = []
+    for item in news_items:
+        title_tag = item.find('a', class_='link-container')
+        if title_tag:
+            title = title_tag.get_text(strip=True)
+            hospital_news.append(title.replace('\n', ' '))
+
+    return hospital_news
+
+if __name__ == "__main__":
+    news = scrape_hospital_news(url)
+    for idx, title in enumerate(news):
+        print(f"{idx + 1}. {title}")
+    

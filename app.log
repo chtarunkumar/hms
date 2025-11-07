@@ -1887,3 +1887,153 @@ werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on 
 2025-11-07 15:52:02,418 [INFO] Starting Flask application...
 2025-11-07 15:52:02,430 [WARNING]  * Debugger is active!
 2025-11-07 15:52:02,432 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:21,719 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:21,889 [INFO]  * Restarting with stat
+2025-11-07 16:26:22,848 [INFO] Database initialized.
+2025-11-07 16:26:22,849 [INFO] Starting Flask application...
+2025-11-07 16:26:22,865 [WARNING]  * Debugger is active!
+2025-11-07 16:26:22,867 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:23,883 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:24,018 [INFO]  * Restarting with stat
+2025-11-07 16:26:25,239 [INFO] Database initialized.
+2025-11-07 16:26:25,239 [INFO] Starting Flask application...
+2025-11-07 16:26:25,253 [WARNING]  * Debugger is active!
+2025-11-07 16:26:25,255 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:26,277 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:26,429 [INFO]  * Restarting with stat
+2025-11-07 16:26:27,047 [INFO] Database initialized.
+2025-11-07 16:26:27,047 [INFO] Starting Flask application...
+2025-11-07 16:26:27,059 [WARNING]  * Debugger is active!
+2025-11-07 16:26:27,061 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:28,079 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:28,225 [INFO]  * Restarting with stat
+2025-11-07 16:26:29,417 [INFO] Database initialized.
+2025-11-07 16:26:29,417 [INFO] Starting Flask application...
+2025-11-07 16:26:29,428 [WARNING]  * Debugger is active!
+2025-11-07 16:26:29,430 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:30,446 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:30,575 [INFO]  * Restarting with stat
+2025-11-07 16:26:32,001 [INFO] Database initialized.
+2025-11-07 16:26:32,001 [INFO] Starting Flask application...
+2025-11-07 16:26:32,014 [WARNING]  * Debugger is active!
+2025-11-07 16:26:32,017 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:35,049 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:35,316 [INFO]  * Restarting with stat
+2025-11-07 16:26:36,595 [INFO] Database initialized.
+2025-11-07 16:26:36,595 [INFO] Starting Flask application...
+2025-11-07 16:26:36,604 [WARNING]  * Debugger is active!
+2025-11-07 16:26:36,607 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:41,640 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:41,756 [INFO]  * Restarting with stat
+2025-11-07 16:26:42,595 [INFO] Database initialized.
+2025-11-07 16:26:42,595 [INFO] Starting Flask application...
+2025-11-07 16:26:42,727 [WARNING]  * Debugger is active!
+2025-11-07 16:26:42,733 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:26:44,763 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:26:44,861 [INFO]  * Restarting with stat
+2025-11-07 16:26:45,519 [INFO] Database initialized.
+2025-11-07 16:26:45,519 [INFO] Starting Flask application...
+2025-11-07 16:26:45,542 [WARNING]  * Debugger is active!
+2025-11-07 16:26:45,545 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:19,839 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:19,975 [INFO]  * Restarting with stat
+2025-11-07 16:27:21,005 [INFO] Database initialized.
+2025-11-07 16:27:21,006 [INFO] Starting Flask application...
+2025-11-07 16:27:21,017 [WARNING]  * Debugger is active!
+2025-11-07 16:27:21,020 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:25,054 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:25,163 [INFO]  * Restarting with stat
+2025-11-07 16:27:25,945 [INFO] Database initialized.
+2025-11-07 16:27:25,945 [INFO] Starting Flask application...
+2025-11-07 16:27:25,958 [WARNING]  * Debugger is active!
+2025-11-07 16:27:25,961 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:32,009 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:32,136 [INFO]  * Restarting with stat
+2025-11-07 16:27:32,796 [INFO] Database initialized.
+2025-11-07 16:27:32,796 [INFO] Starting Flask application...
+2025-11-07 16:27:32,810 [WARNING]  * Debugger is active!
+2025-11-07 16:27:32,812 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:36,841 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:36,966 [INFO]  * Restarting with stat
+2025-11-07 16:27:37,578 [INFO] Database initialized.
+2025-11-07 16:27:37,578 [INFO] Starting Flask application...
+2025-11-07 16:27:37,589 [WARNING]  * Debugger is active!
+2025-11-07 16:27:37,592 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:38,610 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:38,738 [INFO]  * Restarting with stat
+2025-11-07 16:27:39,479 [INFO] Database initialized.
+2025-11-07 16:27:39,480 [INFO] Starting Flask application...
+2025-11-07 16:27:39,500 [WARNING]  * Debugger is active!
+2025-11-07 16:27:39,503 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:40,519 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:40,667 [INFO]  * Restarting with stat
+2025-11-07 16:27:41,417 [INFO] Database initialized.
+2025-11-07 16:27:41,418 [INFO] Starting Flask application...
+2025-11-07 16:27:41,430 [WARNING]  * Debugger is active!
+2025-11-07 16:27:41,432 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:48,476 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:48,585 [INFO]  * Restarting with stat
+2025-11-07 16:27:49,247 [INFO] Database initialized.
+2025-11-07 16:27:49,248 [INFO] Starting Flask application...
+2025-11-07 16:27:49,260 [WARNING]  * Debugger is active!
+2025-11-07 16:27:49,262 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:27:52,298 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:27:52,421 [INFO]  * Restarting with stat
+2025-11-07 16:27:53,095 [INFO] Database initialized.
+2025-11-07 16:27:53,096 [INFO] Starting Flask application...
+2025-11-07 16:27:53,106 [WARNING]  * Debugger is active!
+2025-11-07 16:27:53,108 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:28:21,305 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:28:21,395 [INFO]  * Restarting with stat
+2025-11-07 16:28:21,945 [INFO] Database initialized.
+2025-11-07 16:28:21,946 [INFO] Starting Flask application...
+2025-11-07 16:28:21,956 [WARNING]  * Debugger is active!
+2025-11-07 16:28:21,958 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:28:23,975 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:28:24,186 [INFO]  * Restarting with stat
+2025-11-07 16:28:24,952 [INFO] Database initialized.
+2025-11-07 16:28:24,952 [INFO] Starting Flask application...
+2025-11-07 16:28:24,965 [WARNING]  * Debugger is active!
+2025-11-07 16:28:24,967 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:28:32,026 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:28:32,146 [INFO]  * Restarting with stat
+2025-11-07 16:28:32,824 [INFO] Database initialized.
+2025-11-07 16:28:32,824 [INFO] Starting Flask application...
+2025-11-07 16:28:32,836 [WARNING]  * Debugger is active!
+2025-11-07 16:28:32,839 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:28:50,965 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:28:51,064 [INFO]  * Restarting with stat
+2025-11-07 16:28:52,455 [INFO] Database initialized.
+2025-11-07 16:28:52,455 [INFO] Starting Flask application...
+2025-11-07 16:28:52,467 [WARNING]  * Debugger is active!
+2025-11-07 16:28:52,469 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:29:16,698 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:29:17,035 [INFO]  * Restarting with stat
+2025-11-07 16:29:17,615 [INFO] Database initialized.
+2025-11-07 16:29:17,615 [INFO] Starting Flask application...
+2025-11-07 16:29:17,625 [WARNING]  * Debugger is active!
+2025-11-07 16:29:17,627 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:29:21,658 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:29:21,820 [INFO]  * Restarting with stat
+2025-11-07 16:29:22,449 [INFO] Database initialized.
+2025-11-07 16:29:22,449 [INFO] Starting Flask application...
+2025-11-07 16:29:22,460 [WARNING]  * Debugger is active!
+2025-11-07 16:29:22,462 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:29:39,562 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:29:39,679 [INFO]  * Restarting with stat
+2025-11-07 16:29:40,240 [INFO] Database initialized.
+2025-11-07 16:29:40,240 [INFO] Starting Flask application...
+2025-11-07 16:29:40,251 [WARNING]  * Debugger is active!
+2025-11-07 16:29:40,253 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:29:41,268 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:29:41,397 [INFO]  * Restarting with stat
+2025-11-07 16:29:42,010 [INFO] Database initialized.
+2025-11-07 16:29:42,010 [INFO] Starting Flask application...
+2025-11-07 16:29:42,023 [WARNING]  * Debugger is active!
+2025-11-07 16:29:42,025 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 16:29:43,042 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\scraper.py', reloading
+2025-11-07 16:29:43,195 [INFO]  * Restarting with stat
+2025-11-07 16:29:43,881 [INFO] Database initialized.
+2025-11-07 16:29:43,881 [INFO] Starting Flask application...
+2025-11-07 16:29:43,891 [WARNING]  * Debugger is active!
+2025-11-07 16:29:43,893 [INFO]  * Debugger PIN: 119-885-249
