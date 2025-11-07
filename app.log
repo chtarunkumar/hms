@@ -1642,3 +1642,236 @@ werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on 
 2025-11-07 15:37:42,767 [INFO] Starting Flask application...
 2025-11-07 15:37:42,777 [WARNING]  * Debugger is active!
 2025-11-07 15:37:42,780 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:42:27,425 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:42:27,547 [INFO]  * Restarting with stat
+2025-11-07 15:42:28,163 [INFO] Database initialized.
+2025-11-07 15:42:28,163 [INFO] Starting Flask application...
+2025-11-07 15:42:28,173 [WARNING]  * Debugger is active!
+2025-11-07 15:42:28,176 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:42:31,203 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:42:31,322 [INFO]  * Restarting with stat
+2025-11-07 15:42:31,963 [INFO] Database initialized.
+2025-11-07 15:42:31,963 [INFO] Starting Flask application...
+2025-11-07 15:42:31,973 [WARNING]  * Debugger is active!
+2025-11-07 15:42:31,975 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:42:34,996 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:42:35,121 [INFO]  * Restarting with stat
+2025-11-07 15:42:35,875 [INFO] Database initialized.
+2025-11-07 15:42:35,876 [INFO] Starting Flask application...
+2025-11-07 15:42:35,886 [WARNING]  * Debugger is active!
+2025-11-07 15:42:35,888 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:42:36,906 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:42:37,017 [INFO]  * Restarting with stat
+2025-11-07 15:42:37,624 [INFO] Database initialized.
+2025-11-07 15:42:37,626 [INFO] Starting Flask application...
+2025-11-07 15:42:37,637 [WARNING]  * Debugger is active!
+2025-11-07 15:42:37,639 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:42:47,385 [WARNING] 404 Not Found: /patients/average-age
+Traceback (most recent call last):
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-11-07 15:42:47,391 [INFO] 127.0.0.1 - - [07/Nov/2025 15:42:47] "[33mGET /patients/average-age?num_patients=4 HTTP/1.1[0m" 404 -
+2025-11-07 15:43:09,799 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:43:09,915 [INFO]  * Restarting with stat
+2025-11-07 15:43:10,574 [INFO] Database initialized.
+2025-11-07 15:43:10,575 [INFO] Starting Flask application...
+2025-11-07 15:43:10,589 [WARNING]  * Debugger is active!
+2025-11-07 15:43:10,591 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:43:11,609 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:43:11,730 [INFO]  * Restarting with stat
+2025-11-07 15:43:12,287 [INFO] Database initialized.
+2025-11-07 15:43:12,287 [INFO] Starting Flask application...
+2025-11-07 15:43:12,298 [WARNING]  * Debugger is active!
+2025-11-07 15:43:12,300 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:43:15,325 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:43:15,434 [INFO]  * Restarting with stat
+2025-11-07 15:43:16,058 [INFO] Database initialized.
+2025-11-07 15:43:16,059 [INFO] Starting Flask application...
+2025-11-07 15:43:16,069 [WARNING]  * Debugger is active!
+2025-11-07 15:43:16,071 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:43:18,091 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:43:18,220 [INFO]  * Restarting with stat
+2025-11-07 15:43:18,799 [INFO] Database initialized.
+2025-11-07 15:43:18,800 [INFO] Starting Flask application...
+2025-11-07 15:43:18,814 [WARNING]  * Debugger is active!
+2025-11-07 15:43:18,816 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:43:20,843 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:43:20,968 [INFO]  * Restarting with stat
+2025-11-07 15:43:21,635 [INFO] Database initialized.
+2025-11-07 15:43:21,635 [INFO] Starting Flask application...
+2025-11-07 15:43:21,649 [WARNING]  * Debugger is active!
+2025-11-07 15:43:21,652 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:43:26,427 [INFO] 127.0.0.1 - - [07/Nov/2025 15:43:26] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:43:26,433 [WARNING] 404 Not Found: /patients/average-age
+Traceback (most recent call last):
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-11-07 15:43:26,438 [INFO] 127.0.0.1 - - [07/Nov/2025 15:43:26] "[33mGET /patients/average-age HTTP/1.1[0m" 404 -
+2025-11-07 15:44:02,727 [INFO] 127.0.0.1 - - [07/Nov/2025 15:44:02] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:44:02,733 [WARNING] 404 Not Found: /patients/average-age
+Traceback (most recent call last):
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-11-07 15:44:02,736 [INFO] 127.0.0.1 - - [07/Nov/2025 15:44:02] "[33mGET /patients/average-age HTTP/1.1[0m" 404 -
+2025-11-07 15:44:58,194 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:44:58,323 [INFO]  * Restarting with stat
+2025-11-07 15:44:58,889 [INFO] Database initialized.
+2025-11-07 15:44:58,890 [INFO] Starting Flask application...
+2025-11-07 15:44:58,912 [WARNING]  * Debugger is active!
+2025-11-07 15:44:58,916 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:01,951 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:02,068 [INFO]  * Restarting with stat
+2025-11-07 15:45:02,743 [INFO] Database initialized.
+2025-11-07 15:45:02,744 [INFO] Starting Flask application...
+2025-11-07 15:45:02,763 [WARNING]  * Debugger is active!
+2025-11-07 15:45:02,766 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:04,791 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:04,931 [INFO]  * Restarting with stat
+2025-11-07 15:45:05,577 [INFO] Database initialized.
+2025-11-07 15:45:05,577 [INFO] Starting Flask application...
+2025-11-07 15:45:05,591 [WARNING]  * Debugger is active!
+2025-11-07 15:45:05,594 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:10,631 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:10,734 [INFO]  * Restarting with stat
+2025-11-07 15:45:11,422 [INFO] Database initialized.
+2025-11-07 15:45:11,423 [INFO] Starting Flask application...
+2025-11-07 15:45:11,435 [WARNING]  * Debugger is active!
+2025-11-07 15:45:11,438 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:13,466 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:13,618 [INFO]  * Restarting with stat
+2025-11-07 15:45:14,244 [INFO] Database initialized.
+2025-11-07 15:45:14,244 [INFO] Starting Flask application...
+2025-11-07 15:45:14,259 [WARNING]  * Debugger is active!
+2025-11-07 15:45:14,262 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:15,281 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:15,403 [INFO]  * Restarting with stat
+2025-11-07 15:45:16,041 [INFO] Database initialized.
+2025-11-07 15:45:16,041 [INFO] Starting Flask application...
+2025-11-07 15:45:16,051 [WARNING]  * Debugger is active!
+2025-11-07 15:45:16,053 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:17,066 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:17,160 [INFO]  * Restarting with stat
+2025-11-07 15:45:17,722 [INFO] Database initialized.
+2025-11-07 15:45:17,722 [INFO] Starting Flask application...
+2025-11-07 15:45:17,734 [WARNING]  * Debugger is active!
+2025-11-07 15:45:17,736 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:21,760 [INFO] 127.0.0.1 - - [07/Nov/2025 15:45:21] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:45:27,802 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:27,913 [INFO]  * Restarting with stat
+2025-11-07 15:45:28,605 [INFO] Database initialized.
+2025-11-07 15:45:28,605 [INFO] Starting Flask application...
+2025-11-07 15:45:28,617 [WARNING]  * Debugger is active!
+2025-11-07 15:45:28,620 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:36,675 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:36,810 [INFO]  * Restarting with stat
+2025-11-07 15:45:37,481 [INFO] Database initialized.
+2025-11-07 15:45:37,481 [INFO] Starting Flask application...
+2025-11-07 15:45:37,492 [WARNING]  * Debugger is active!
+2025-11-07 15:45:37,495 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:38,513 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:38,662 [INFO]  * Restarting with stat
+2025-11-07 15:45:39,294 [INFO] Database initialized.
+2025-11-07 15:45:39,294 [INFO] Starting Flask application...
+2025-11-07 15:45:39,305 [WARNING]  * Debugger is active!
+2025-11-07 15:45:39,308 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:40,322 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:40,420 [INFO]  * Restarting with stat
+2025-11-07 15:45:41,138 [INFO] Database initialized.
+2025-11-07 15:45:41,139 [INFO] Starting Flask application...
+2025-11-07 15:45:41,159 [WARNING]  * Debugger is active!
+2025-11-07 15:45:41,163 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:43,188 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:45:43,289 [INFO]  * Restarting with stat
+2025-11-07 15:45:43,980 [INFO] Database initialized.
+2025-11-07 15:45:43,980 [INFO] Starting Flask application...
+2025-11-07 15:45:43,994 [WARNING]  * Debugger is active!
+2025-11-07 15:45:43,996 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:45:47,746 [INFO] 127.0.0.1 - - [07/Nov/2025 15:45:47] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:46:03,103 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:03,240 [INFO]  * Restarting with stat
+2025-11-07 15:46:03,844 [INFO] Database initialized.
+2025-11-07 15:46:03,844 [INFO] Starting Flask application...
+2025-11-07 15:46:03,857 [WARNING]  * Debugger is active!
+2025-11-07 15:46:03,859 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:05,880 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:05,990 [INFO]  * Restarting with stat
+2025-11-07 15:46:06,781 [INFO] Database initialized.
+2025-11-07 15:46:06,782 [INFO] Starting Flask application...
+2025-11-07 15:46:06,791 [WARNING]  * Debugger is active!
+2025-11-07 15:46:06,793 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:09,818 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:09,941 [INFO]  * Restarting with stat
+2025-11-07 15:46:10,752 [INFO] Database initialized.
+2025-11-07 15:46:10,753 [INFO] Starting Flask application...
+2025-11-07 15:46:10,765 [WARNING]  * Debugger is active!
+2025-11-07 15:46:10,767 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:11,783 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:11,905 [INFO]  * Restarting with stat
+2025-11-07 15:46:12,486 [INFO] Database initialized.
+2025-11-07 15:46:12,486 [INFO] Starting Flask application...
+2025-11-07 15:46:12,498 [WARNING]  * Debugger is active!
+2025-11-07 15:46:12,500 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:13,514 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:13,662 [INFO]  * Restarting with stat
+2025-11-07 15:46:14,357 [INFO] Database initialized.
+2025-11-07 15:46:14,357 [INFO] Starting Flask application...
+2025-11-07 15:46:14,366 [WARNING]  * Debugger is active!
+2025-11-07 15:46:14,368 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:17,391 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:17,508 [INFO]  * Restarting with stat
+2025-11-07 15:46:18,165 [INFO] Database initialized.
+2025-11-07 15:46:18,165 [INFO] Starting Flask application...
+2025-11-07 15:46:18,183 [WARNING]  * Debugger is active!
+2025-11-07 15:46:18,187 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:19,211 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:19,359 [INFO]  * Restarting with stat
+2025-11-07 15:46:19,995 [INFO] Database initialized.
+2025-11-07 15:46:19,995 [INFO] Starting Flask application...
+2025-11-07 15:46:20,008 [WARNING]  * Debugger is active!
+2025-11-07 15:46:20,010 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:25,043 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:25,146 [INFO]  * Restarting with stat
+2025-11-07 15:46:25,941 [INFO] Database initialized.
+2025-11-07 15:46:25,942 [INFO] Starting Flask application...
+2025-11-07 15:46:25,955 [WARNING]  * Debugger is active!
+2025-11-07 15:46:25,957 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:26,981 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\client\\cli.py', reloading
+2025-11-07 15:46:27,085 [INFO]  * Restarting with stat
+2025-11-07 15:46:28,148 [INFO] Database initialized.
+2025-11-07 15:46:28,148 [INFO] Starting Flask application...
+2025-11-07 15:46:28,162 [WARNING]  * Debugger is active!
+2025-11-07 15:46:28,164 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:46:33,147 [INFO] 127.0.0.1 - - [07/Nov/2025 15:46:33] "GET /patients HTTP/1.1" 200 -

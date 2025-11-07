@@ -73,13 +73,22 @@ def menu():
                 print_json(resp.json())
 
         elif choice == 6:
-            method = input("Calculation method (thread/async, default thread): ") or 'thread'
-            batch_size = input("Batch size (default 10): ")
-            params = {"method": method}
-            if batch_size.isdigit():
-                params["batch_size"] = batch_size
-            resp = requests.get(f"{BASE_URL}/patients/average-age", params=params)
-            print_json(resp.json())
+            # method = input("Calculation method (thread/async, default thread): ") or 'thread'
+            # batch_size = input("Batch size (default 10): ")
+            # params = {"method": method}
+            # if batch_size.isdigit():
+            #     params["batch_size"] = batch_size
+            # resp = requests.get(f"{BASE_URL}/patients/average-age", params=params)
+            # print_json(resp.json())
+            resp = requests.get(f"{BASE_URL}/patients")
+            sum = 0
+            count = 0
+            for e in resp.json():
+                count += 1
+                sum += e['age']
+
+            print(sum / count if count > 0 else 0)
+
 
 
         elif choice == 7:
