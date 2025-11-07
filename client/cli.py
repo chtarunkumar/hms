@@ -81,6 +81,7 @@ def menu():
             resp = requests.get(f"{BASE_URL}/patients/average-age", params=params)
             print_json(resp.json())
 
+
         elif choice == 7:
             resp = requests.delete(f"{BASE_URL}/patients")
             if resp.status_code == 204:

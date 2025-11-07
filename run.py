@@ -1,6 +1,7 @@
+'''Driver script to run the Flask application.'''
+import logging
 from app import create_app
 from app.models import db
-import logging
 
 app = create_app()
 logger = logging.getLogger(__name__) # Get the logger configured in app/__init__.py
