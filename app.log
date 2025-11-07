@@ -1505,3 +1505,44 @@ AttributeError: module 'app.logger' has no attribute 'info'
 2025-11-07 15:27:07,509 [INFO] Starting Flask application...
 2025-11-07 15:27:07,521 [WARNING]  * Debugger is active!
 2025-11-07 15:27:07,524 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:29:30,946 [INFO] 127.0.0.1 - - [07/Nov/2025 15:29:30] "GET /patients HTTP/1.1" 200 -
+2025-11-07 15:30:00,740 [ERROR] An unexpected error occurred: module 'app.logger' has no attribute 'info'
+Traceback (most recent call last):
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\ctarunku\OneDrive - Cisco\Desktop\hms\app\routes.py", line 30, in add_patient
+    logger.info(f"Email notification sent for new patient (ID: {patient.id}).")
+    ^^^^^^^^^^^
+AttributeError: module 'app.logger' has no attribute 'info'
+2025-11-07 15:30:00,743 [INFO] 127.0.0.1 - - [07/Nov/2025 15:30:00] "[35m[1mPOST /patients HTTP/1.1[0m" 500 -
+2025-11-07 15:30:25,638 [WARNING] 404 Not Found: /patients/average-age
+Traceback (most recent call last):
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "C:\Users\ctarunku\AppData\Local\Programs\Python\Python314\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-11-07 15:30:25,643 [INFO] 127.0.0.1 - - [07/Nov/2025 15:30:25] "[33mGET /patients/average-age?method=t&batch_size=4 HTTP/1.1[0m" 404 -
+2025-11-07 15:32:13,379 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\config.py', reloading
+2025-11-07 15:32:13,482 [INFO]  * Restarting with stat
+2025-11-07 15:32:14,137 [INFO] Database initialized.
+2025-11-07 15:32:14,138 [INFO] Starting Flask application...
+2025-11-07 15:32:14,152 [WARNING]  * Debugger is active!
+2025-11-07 15:32:14,155 [INFO]  * Debugger PIN: 119-885-249
+2025-11-07 15:32:15,185 [INFO]  * Detected change in 'c:\\Users\\ctarunku\\OneDrive - Cisco\\Desktop\\hms\\app\\config.py', reloading
+2025-11-07 15:32:15,296 [INFO]  * Restarting with stat
+2025-11-07 15:32:15,854 [INFO] Database initialized.
+2025-11-07 15:32:15,854 [INFO] Starting Flask application...
+2025-11-07 15:32:15,865 [WARNING]  * Debugger is active!
+2025-11-07 15:32:15,868 [INFO]  * Debugger PIN: 119-885-249
