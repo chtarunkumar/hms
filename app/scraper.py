@@ -1,3 +1,5 @@
+''''Importing requests and BeautifulSoup to scrape book titles from a webpage'''
+
 from bs4 import BeautifulSoup
 import requests
 
@@ -10,7 +12,7 @@ def scrape_book_titles(url):
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
-    book_elements = soup.select('article.product_pod h3 a')
+    book_elements = soup.select('article.product_pod h3 a') # Selecting book title elements
     book_titles = [book['title'] for book in book_elements]
     return book_titles
 
